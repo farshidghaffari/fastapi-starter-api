@@ -119,6 +119,7 @@ curl -X POST "http://127.0.0.1:8000/tasks" \
 ## Related Links
 
 - Portfolio: https://farshidghaffari.net
+- Resume: https://farshidghaffari.net/resume/farshid-ghaffari-python-developer-resume.pdf
 - Services: https://farshidghaffari.net/services/
 - Projects: https://farshidghaffari.net/projects/
 - Blog: https://farshidghaffari.net/blog/
